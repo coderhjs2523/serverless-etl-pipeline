@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Serverless ETL Pipeline using AWS
 
 ## Project Overview
@@ -68,3 +69,6 @@ serverless-etl-pipeline/
 **Hareesh Singh**
 
 GitHub: https://github.com/coderhjs2523
+=======
+# serverless-etl-pipeline
+>>>>>>> d74057f511ea9b0647fbd398bcfd1ed9712162ed
