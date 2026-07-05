@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Serverless ETL Pipeline using AWS
 
 ## Project Overview
@@ -23,7 +22,7 @@ This project demonstrates a serverless ETL (Extract, Transform, Load) pipeline u
 
 ## Project Workflow
 
-```
+```text
 OpenWeather API
         │
         ▼
@@ -53,7 +52,7 @@ CloudWatch Logs
 
 ## Project Structure
 
-```
+```text
 serverless-etl-pipeline/
 │── lambda_function.py
 │── requirements.txt
@@ -69,6 +68,3 @@ serverless-etl-pipeline/
 **Hareesh Singh**
 
 GitHub: https://github.com/coderhjs2523
-=======
-# serverless-etl-pipeline
->>>>>>> d74057f511ea9b0647fbd398bcfd1ed9712162ed
